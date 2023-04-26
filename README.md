@@ -51,3 +51,5 @@ Question 1 Results
 Question 2 Results
 
 According to the data, we found it interesting that as tensions have grown between Ukraine and Russia, their happiness ratings are getting closer together, with Russia’s average decreasing and Ukraine’s increasing. This could be because the war created a more unified nation in Ukraine to stand up to Russia. For Russia, their happiness could be decreasing because the people do not want to go to war. Furthermore, in 2014, a war in Ukraine erupted because of Russia’s annexation of Crimea. Armed conflict broke out between the Ukrainian military and Russian-backed forces resulting in a decrease in Ukraine’s happiness rating. Between the years of 2017 and 2018, the United States became involved and imposed sanctions on Russia along with assisting with NATO’s presence in the region. Towards the end of 2018, the US assisted Ukraine by supplying them with lethal weaponry, helping the country overall, and boosting the happiness rating.
+
+Tableau Results: https://docs.google.com/document/d/1ZduFg5Wk0aMFQYDo-rmGwk0xLG8Y00oBJkdxmVrAiOM/edit
