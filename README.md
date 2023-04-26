@@ -11,8 +11,10 @@ What are the questions, and why each question is important. Importance can be ev
 
 The questions we derived from our data set are the following:
 1. What is the year where the average world happiness index was the lowest? 
+
 This is important for analyzing what major world events happened during that year to decrease the overall happiness from years prior such as new political leaders coming to power, natural disasters and gun violence.
 2. What is the comparison in average happiness between Russia and Ukraine in the past 10 years?
+
 This is important in analyzing if there were any current events that year that would have decreased the happiness index, like the war between Russia and Ukraine and the support the countries received from others.
 
 Describing your dataset and what data it contains: Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.
