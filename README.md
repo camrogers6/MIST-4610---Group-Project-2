@@ -23,7 +23,9 @@ This is important in analyzing if there were any current events that year that w
 
 Describing your dataset and what data it contains: Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.
 
-We found our dataset on kaggle.com. There are 4 columns and 1524 rows of data.
+We found our dataset on kaggle.com.
+There are 4 columns and 1524 rows of data.
+
 Columns: Country – country name
   Data type: text
 Year – year of the report
