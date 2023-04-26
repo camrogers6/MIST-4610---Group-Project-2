@@ -39,7 +39,9 @@ Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis. Please provide any citations if required as well as supporting visualizations and analysis generated from Tableau
 
 Question 1 Results
+
 2017 was the year with the lowest average world happiness index which could be due to many major events and factors from that year including multiple deadly hurricanes and earthquakes, many deadly mass shootings, environmental concerns, and major political tensions such as threats from North Korea and the global Women’s March taking place the day after Trump’s inauguration. There were also a series of terror attacks around the UK this year which would not only decrease the UK’s happiness but also of those in other countries constantly having to hear about this news.
 
 Question 2 Results
+
 According to the data, we found it interesting that as tensions have grown between Ukraine and Russia, their happiness ratings are getting closer together, with Russia’s average decreasing and Ukraine’s increasing. This could be because the war created a more unified nation in Ukraine to stand up to Russia. For Russia, their happiness could be decreasing because the people do not want to go to war. Furthermore, in 2014, a war in Ukraine erupted because of Russia’s annexation of Crimea. Armed conflict broke out between the Ukrainian military and Russian-backed forces resulting in a decrease in Ukraine’s happiness rating. Between the years of 2017 and 2018, the United States became involved and imposed sanctions on Russia along with assisting with NATO’s presence in the region. Towards the end of 2018, the US assisted Ukraine by supplying them with lethal weaponry, helping the country overall, and boosting the happiness rating.
