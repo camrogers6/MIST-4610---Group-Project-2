@@ -3,7 +3,7 @@ Authors
 -[@benheick] (https://github.com/benheickMIST-4610-Group-Project)
 -[@alexiseffenberger] (https://github.com/alexiseffenberger/project)
 -[@julianneheine] https://github.com/julianneheine/groupProject
-- [@connorhay] https://github.com/Connor-Hay/SQL-Group-Project
+-[@connorhay] https://github.com/Connor-Hay/SQL-Group-Project
 
 Group Members: Julianne Heine, Camryn Rogers , Ben Heick, Alexis Effenberger, Connor Hay
 
@@ -17,7 +17,15 @@ Describing your dataset and what data it contains: Where was it obtained, what a
 
 We found our dataset on kaggle.com. There are 4 columns and 1524 rows of data.
 
-Columns: Country – country name. Data type: text Year – year of the report. Data type: year Index – Happiness Index score. Data type: float Rank – country rank according to their Happiness Index score. Data type: Integer
+Columns: 
+Country – country name 
+  Data type: text
+Year – year of the report
+  Data type: year
+Index – Happiness Index score
+  Data type: float
+Rank – country rank according to their Happiness Index score
+  Data type: Integer
 
 The happiness index score is calculated based on answers from samples of 1000 people in each country to the main life evaluation question asked in the poll. This is called the Cantril ladder: it asks respondents to think of a ladder, with the best possible life for them being a 10 and the worst possible life being a 0. They are then asked to rate their own current lives on a 0 to 10 scale. Happiness is calculated based on factors such as Dystopia (an imaginary country that has the world’s least happy people; this is used to have a benchmark against which all countries can be favorably compared, and therefore no country performs more poorly than Dystopia) + residuals, which reflect the extent to which the six variables either over or under-explain average 2019-2021 life evaluations, and have a value of approximately 0 over the entire set of countries, GDP per capita, social support, healthy life expectancy, freedom, generosity, and perceptions of corruption. There are other important variables, like unemployment, inequality, and even social media use, that are not included in the dataset because there is not comparable international data in regards to the holistic set of countries.
 
